@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[7587],{6825:e=>{e.exports=JSON.parse('{"label":"hola","permalink":"/matossphere/blog/tags/hola","allTagsPath":"/matossphere/blog/tags","count":1}')}}]);
