@@ -1,0 +1,60 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #2696fe;
+  --ifm-color-primary-dark: #57a4ed;
+  --ifm-color-primary-darker: #57a4ed;
+  --ifm-color-primary-darkest: #57a4ed;
+  --ifm-color-primary-light: #57a4ed;
+  --ifm-color-primary-lighter: #57a4ed;
+  --ifm-color-primary-lightest: #57a4ed;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  --ifm-navbar-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #2696fe;
+  --ifm-color-primary-dark: #57a4ed;
+  --ifm-color-primary-darker: #57a4ed;
+  --ifm-color-primary-darkest: #57a4ed;
+  --ifm-color-primary-light: #57a4ed;
+  --ifm-color-primary-lighter: #57a4ed;
+  --ifm-color-primary-lightest: #57a4ed;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+navbar--fixed-top 
+{
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+}
+
+.footer
+{
+  background: #202024;  /* fallback for old browsers */
+}
+
+.ms-headerbox
+{
+  background: rgb(87,164,237);
+  background: linear-gradient(135deg, rgba(87,164,237,1) 0%, rgba(113,225,192,1) 100%);
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+}
+
+.ms-card
+{
+  --ifm-col-width: calc(3.6 / 12 * 100%);
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 20px 30px;
+  border-radius: 6px;
+}
+
+.ms-row
+{
+  column-gap: 40px;
+}
