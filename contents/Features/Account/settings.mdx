@@ -36,10 +36,10 @@ Let's see how to [Create a page](/intro).
 ```
 
 ```md
-Let's see how to [Create a page](/intro.md).
+Let's see how to [Create a page](/intro.mdx).
 ```
 
-**Result:** Let's see how to [Create a page](/intro.md).
+**Result:** Let's see how to [Create a page](/intro.mdx).
 
 ## Images
 
