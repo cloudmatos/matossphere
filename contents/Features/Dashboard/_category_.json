@@ -3,6 +3,6 @@
   "position": 2,
   "link": {
     "type": "generated-index",
-    "description": "Dashboard"
+    "description": "The dashboard enables a consolidated security view of all cloud infrastructure environments and infrastructure as code repositories. Before you begin, ensure that you have set up the cloud infrastructure environment and infrastructure as code repositories. <br/>The panels on the dashboards display various metrics computed based on the security audits. The dashboard provides multiple views to analyze the non-conformance based on different categories. These views help to analyze the non-conformance from different perspectives and drill down into details."
   }
 }
