@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Events
 
-MatosSphere Events
+MatosSphere application events
 
 Docusaurus supports **[Markdown](https://daringfireball.net/projects/markdown/syntax)** and a few **additional features**.
 

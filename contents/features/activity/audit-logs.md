@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # Audit Logs
 
-MatosSphere Audit Logs
+MatosSphere system access logs
 
 Docusaurus supports **[Markdown](https://daringfireball.net/projects/markdown/syntax)** and a few **additional features**.
 

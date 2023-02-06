@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Notifications
 
-MatosSphere Notifications
+MatosSphere security audit notifications
 
 Docusaurus supports **[Markdown](https://daringfireball.net/projects/markdown/syntax)** and a few **additional features**.
 

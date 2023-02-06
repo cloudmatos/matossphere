@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # API Logs
 
-MatosSphere API Logs
+MatosSphere API request response logs
 
 Docusaurus supports **[Markdown](https://daringfireball.net/projects/markdown/syntax)** and a few **additional features**.
 
