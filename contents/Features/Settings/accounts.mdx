@@ -45,18 +45,18 @@ Let's see how to [Create a page](/intro.mdx).
 
 Regular Markdown images are supported.
 
-You can use absolute paths to reference images in the static directory (`static/img/docusaurus.png`):
+You can use absolute paths to reference images in the static directory (`static/img/cloudmatos.png`):
 
 ```md
-![Docusaurus logo](/img/docusaurus.png)
+![Docusaurus logo](/img/cloudmatos.png)
 ```
 
-![Docusaurus logo](/img/docusaurus.png)
+![Docusaurus logo](/img/cloudmatos.png)
 
 You can reference images relative to the current file as well. This is particularly useful to colocate images close to the Markdown files using them:
 
 ```md
-![Docusaurus logo](./img/docusaurus.png)
+![Docusaurus logo](./img/cloudmatos.png)
 ```
 
 ## Code Blocks
