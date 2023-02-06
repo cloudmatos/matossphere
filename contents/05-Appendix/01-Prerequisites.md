@@ -1,7 +1,3 @@
----
-sidebar_position: 5
----
-
 # Support & Prerequisites
 
 MatosSphere Prerequisites

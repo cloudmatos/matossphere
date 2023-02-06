@@ -1,7 +1,3 @@
----
-sidebar_position: 1
----
-
 # Introduction
 MatosSphere is a self healing cloud infrastructure solution designed to address core infrastructure needs by providing deeper observability and intelligent remediation while simplifying management of cloud infrastructure environments.
 
